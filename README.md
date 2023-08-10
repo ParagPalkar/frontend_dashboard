@@ -36,6 +36,6 @@ https://paragpalkar.github.io/frontend_dashboard/
 
 ## Contributing
 
-Contributions are always welcome!
+Contributions are always welcome! Contributions to this project are welcome! If you find any issues or want to enhance the dashboard further, feel free to create pull requests.
 
 
